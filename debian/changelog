@@ -1,6 +1,6 @@
-llama.cpp (0.1.0-1) UNRELEASED; urgency=medium
+llama.cpp (0.0.9861-1) UNRELEASED; urgency=medium
 
-  * Add initial Debian packaging support
+  * Initial Debian packaging for Snapdragon Linux
+  * Based on upstream tag b9861
 
- -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Thu, 01 Jan 1970 08:00:00 +0800
-
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Fri, 03 Jul 2026 08:00:00 +0800
