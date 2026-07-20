@@ -17,8 +17,16 @@
 /*.changes
 /.pc
 
-# Output folder
-/out
+# Packaging staging directories
+/llama.cpp-qcom/
+/llama.cpp-qcom-midstream/
+
+# Build and install artifacts in src/
+/src/build-qcom/
+/src/build-midstream/
+/src/install-qcom/
+/src/install-midstream/
+/src/CMakeUserPresets.json
 
 # Logs
 /*.log
